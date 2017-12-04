@@ -8,19 +8,19 @@
 	- Depth of concept graph (each node is a concept)
 - Deep learning is a particular kind of machine learning that achieves great power and ﬂexibility by learning to represent the world as a nested hierarchy of concepts, with each concept deﬁned in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.
 - Various AI approaches :
-	- ![Different AI approaches](img/ai_approaches.png)
+	- ![Different AI approaches](img/introduction/ai_approaches.png)
 - Concept Map :
-	- ![Concept Map](img/concept_map.png)
+	- ![Concept Map](img/introduction/concept_map.png)
 - Phases of Deep Learning:
-	- ![Phases of Deep Learning](img/phases_dl.png)
+	- ![Phases of Deep Learning](img/introduction/phases_dl.png)
 - The main reason for the diminished role of neuroscience in deep learning research today is that we simply do not have enough information about the brain to use it as a guide.
 - The central idea in connectionism is that a large number of simple computational units can achieve intelligent behavior when networked together. This insight applies equally to neurons in biological nervous systems and to hidden units in computational models.
 - During the late 90s and early 2000 when neural networks were phasing out, the Canadian Institute for Advanced Research (CIFAR) helped to keep neural networks research alive via its Neural Computation and Adaptive Perception (NCAP) research initiative. This program united machine learning research groups led by Geoﬀrey Hinton at University of Toronto, Yoshua Bengio at University of Montreal, and Yann LeCun at New York University. The CIFAR NCAP research initiative had a multi-disciplinary nature that also included neuroscientists and experts in human and computer vision.
 - Increasing Datasets Sizes:
-	- ![Increasing Dataset Sizes](img/increasing_datasets_sizes.png)
+	- ![Increasing Dataset Sizes](img/introduction/increasing_datasets_sizes.png)
 - As of 2016, a rough rule of thumb is that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category, and will match or exceed human performance when trained with a dataset containing at least 10 million labeled examples.
 - Number of connections of neurons:
-	- ![Number of connections of neurons](img/num_connections.png)
+	- ![Number of connections of neurons](img/introduction/num_connections.png)
 - Deep learning has also made contributions back to other sciences. Modern convolutional networks for object recognition provide a model of visual processing that neuroscientists can study (DiCarlo, 2013). It has been successfully used to predict how molecules will interact in order to help pharmaceutical companies design new drugs (Dahl et al., 2014),to search for subatomic particles (Baldi et al., 2014), and to automatically parse microscope images used to construct a 3-D map of the human brain (Knowles-Barley et al., 2014).
 - Increasing Model Sizes:
-	- ![Increasing Model Sizes](img/increasing_model_sizes.png)
+	- ![Increasing Model Sizes](img/introduction/increasing_model_sizes.png)
